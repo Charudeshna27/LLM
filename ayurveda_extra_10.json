@@ -1,0 +1,212 @@
+[
+  {
+    "disease": "Chronic Kidney Disease (Mutravikara)",
+    "symptoms": [
+      "Swelling in feet",
+      "Fatigue",
+      "Frequent urination"
+    ],
+    "medicine": "Punarnava Mandoor",
+    "dosage": "2 tablets with warm water twice daily",
+    "food_to_prefer": [
+      "Barley water",
+      "Cucumber",
+      "Ash gourd juice"
+    ],
+    "food_to_avoid": [
+      "Salty foods",
+      "Red meat",
+      "Alcohol"
+    ],
+    "lifestyle_advice": "Stay hydrated; avoid overexertion."
+  },
+  {
+    "disease": "Gallstones (Pittashmari)",
+    "symptoms": [
+      "Severe abdominal pain",
+      "Nausea",
+      "Indigestion"
+    ],
+    "medicine": "Triphala Churna",
+    "dosage": "5 grams with warm water at bedtime",
+    "food_to_prefer": [
+      "Radish juice",
+      "Coconut water",
+      "Green vegetables"
+    ],
+    "food_to_avoid": [
+      "Fried foods",
+      "Spicy curries",
+      "Alcohol"
+    ],
+    "lifestyle_advice": "Eat small frequent meals; avoid late-night eating."
+  },
+  {
+    "disease": "Irritable Bowel Syndrome (Grahani Roga)",
+    "symptoms": [
+      "Abdominal cramps",
+      "Loose stools",
+      "Bloating"
+    ],
+    "medicine": "Kutajghan Vati",
+    "dosage": "2 tablets with warm water twice daily",
+    "food_to_prefer": [
+      "Buttermilk",
+      "Rice gruel",
+      "Moong dal"
+    ],
+    "food_to_avoid": [
+      "Fermented foods",
+      "Cold drinks",
+      "Excessive oily food"
+    ],
+    "lifestyle_advice": "Follow a regular eating pattern; reduce stress."
+  },
+  {
+    "disease": "Cirrhosis of Liver (Yakrit Roga)",
+    "symptoms": [
+      "Yellow skin",
+      "Abdominal swelling",
+      "Fatigue"
+    ],
+    "medicine": "Bhumyamalaki Churna",
+    "dosage": "3 grams with honey twice daily",
+    "food_to_prefer": [
+      "Papaya",
+      "Coconut water",
+      "Boiled rice"
+    ],
+    "food_to_avoid": [
+      "Alcohol",
+      "Fried foods",
+      "Red meat"
+    ],
+    "lifestyle_advice": "Take proper rest; avoid anger and stress."
+  },
+  {
+    "disease": "Astigmatism (Drishti Dosha)",
+    "symptoms": [
+      "Blurred vision",
+      "Eye strain",
+      "Headache"
+    ],
+    "medicine": "Triphala Ghrita",
+    "dosage": "1 teaspoon with warm milk at bedtime",
+    "food_to_prefer": [
+      "Carrots",
+      "Amla",
+      "Spinach"
+    ],
+    "food_to_avoid": [
+      "Fried food",
+      "Artificial sweets",
+      "Alcohol"
+    ],
+    "lifestyle_advice": "Do eye exercises; wash eyes with Triphala water."
+  },
+  {
+    "disease": "Insomnia (Anidra)",
+    "symptoms": [
+      "Difficulty sleeping",
+      "Restlessness",
+      "Irritability"
+    ],
+    "medicine": "Tagara Churna",
+    "dosage": "3 grams with warm milk at bedtime",
+    "food_to_prefer": [
+      "Warm milk",
+      "Almonds",
+      "Ghee"
+    ],
+    "food_to_avoid": [
+      "Coffee",
+      "Alcohol",
+      "Spicy foods"
+    ],
+    "lifestyle_advice": "Practice meditation and avoid late-night screen use."
+  },
+  {
+    "disease": "Ankylosing Spondylitis (Asthi Roga)",
+    "symptoms": [
+      "Back stiffness",
+      "Joint pain",
+      "Restricted movement"
+    ],
+    "medicine": "Dashmool Kwath",
+    "dosage": "20 ml decoction twice daily",
+    "food_to_prefer": [
+      "Garlic",
+      "Ginger tea",
+      "Leafy vegetables"
+    ],
+    "food_to_avoid": [
+      "Cold drinks",
+      "Cabbage",
+      "Processed food"
+    ],
+    "lifestyle_advice": "Do yoga regularly; avoid prolonged sitting."
+  },
+  {
+    "disease": "Chronic Sinusitis (Peenis Roga)",
+    "symptoms": [
+      "Headache",
+      "Nasal blockage",
+      "Post-nasal drip"
+    ],
+    "medicine": "Sitopaladi Churna",
+    "dosage": "2 grams with honey twice daily",
+    "food_to_prefer": [
+      "Pepper rasam",
+      "Tulsi tea",
+      "Warm soups"
+    ],
+    "food_to_avoid": [
+      "Ice cream",
+      "Cold drinks",
+      "Curd at night"
+    ],
+    "lifestyle_advice": "Do steam inhalation with eucalyptus oil."
+  },
+  {
+    "disease": "Vertigo (Bhrama Roga)",
+    "symptoms": [
+      "Dizziness",
+      "Nausea",
+      "Loss of balance"
+    ],
+    "medicine": "Brahmi Vati",
+    "dosage": "2 tablets with water twice daily",
+    "food_to_prefer": [
+      "Amla",
+      "Almonds",
+      "Milk"
+    ],
+    "food_to_avoid": [
+      "Caffeine",
+      "Alcohol",
+      "Oily food"
+    ],
+    "lifestyle_advice": "Avoid sudden head movements; practice pranayama."
+  },
+  {
+    "disease": "Gingivitis (Danta Mula Shotha)",
+    "symptoms": [
+      "Swollen gums",
+      "Bleeding gums",
+      "Bad breath"
+    ],
+    "medicine": "Triphala Churna",
+    "dosage": "Use for gargling twice daily; 2 grams internally",
+    "food_to_prefer": [
+      "Amla",
+      "Fresh fruits",
+      "Leafy vegetables"
+    ],
+    "food_to_avoid": [
+      "Sugary snacks",
+      "Carbonated drinks",
+      "Junk food"
+    ],
+    "lifestyle_advice": "Brush with herbal toothpaste; do regular oil pulling."
+  }
+]
